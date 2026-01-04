@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I'm a Software Engineer at Alfen BV with a Master's degree in Embedded Systems for AI and Robotics from TU Delft. My passion lies at the intersection of cutting-edge technology and real-world impact.
+I'm a Software Systems Engineer with a Master's degree in Embedded Systems for AI and Robotics from TU Delft. My passion lies at the intersection of cutting-edge technology and real-world impact.
 
 **Professional Interests:**
 - Software Design & Architectures for building resilient & scalable systems
