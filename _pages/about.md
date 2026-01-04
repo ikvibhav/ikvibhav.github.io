@@ -8,17 +8,23 @@ redirect_from:
 ---
 
 ## About Me
-- I am a Software Engineer at Alfen BV
-- I did my Masters in Embedded Systems for AI and Robotics from TU Delft
-- In my professional life, I have the following interests -
-  - Software Design and Architectures for scalable software design
-  - Big Data Analytics for economics and finance
-- In my non-professional life, I have following interests -
-  - Running Half-Marathons
-  - Landscape and Drone Photography
-  - Rhythym Guitar
+
+I'm a Software Engineer at Alfen BV with a Master's degree in Embedded Systems for AI and Robotics from TU Delft. My passion lies at the intersection of cutting-edge technology and real-world impact.
+
+**Professional Interests:**
+- Software Design & Architectures for building resilient & scalable systems
+- Big Data Analytics in economics and finance
+
+**Personal Pursuits:**
+When I'm not writing software, you'll find me:
+- Training for half-marathons
+- Capturing landscapes and aerial shots through photography
+- Playing the guitar
 
 ## Career Goals
-- To design scalable software solutions that solve global problems 
-- To enable organisations become more Data-Driven
-- To find the right balance between technology, society and business
+
+My mission is to create technology that makes a meaningful difference:
+
+- **Design resilient & scalable software solutions** that address global challenges
+- **Enable data-driven decision making** within organizations
+- **Bridge the gap** between technology innovation, societal impact, and business value
