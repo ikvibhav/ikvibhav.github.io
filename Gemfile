@@ -23,6 +23,10 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
+end
+
+# Development-only gems (not used by GitHub Pages build)
+group :development do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
